@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:K:/SCALER HACK/gesture/media/videos/pythagoras_simple_no_latex/1080p60/partial_movie_files/PythagorasSimple/3529212410_716989944_223132457.mp4'
+file 'file:K:/SCALER HACK/gesture/media/videos/pythagoras_simple_no_latex/1080p60/partial_movie_files/PythagorasSimple/3040924799_4217992463_4237443474.mp4'
+file 'file:K:/SCALER HACK/gesture/media/videos/pythagoras_simple_no_latex/1080p60/partial_movie_files/PythagorasSimple/3040924799_3779939529_1925147150.mp4'
+file 'file:K:/SCALER HACK/gesture/media/videos/pythagoras_simple_no_latex/1080p60/partial_movie_files/PythagorasSimple/3040924799_4217992463_2953846804.mp4'
+file 'file:K:/SCALER HACK/gesture/media/videos/pythagoras_simple_no_latex/1080p60/partial_movie_files/PythagorasSimple/3040924799_2738406078_3625359896.mp4'
+file 'file:K:/SCALER HACK/gesture/media/videos/pythagoras_simple_no_latex/1080p60/partial_movie_files/PythagorasSimple/3040924799_2844360058_481827939.mp4'

@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:K:/SCALER HACK/gesture/media/videos/morph_shapes/480p15/partial_movie_files/CircleToSphereToSquare/1185818338_3835746809_223132457.mp4'
+file 'file:K:/SCALER HACK/gesture/media/videos/morph_shapes/480p15/partial_movie_files/CircleToSphereToSquare/624642324_4217992463_3790392896.mp4'
+file 'file:K:/SCALER HACK/gesture/media/videos/morph_shapes/480p15/partial_movie_files/CircleToSphereToSquare/624642324_2291654586_3054268816.mp4'
+file 'file:K:/SCALER HACK/gesture/media/videos/morph_shapes/480p15/partial_movie_files/CircleToSphereToSquare/624642324_4217992463_3560420700.mp4'
+file 'file:K:/SCALER HACK/gesture/media/videos/morph_shapes/480p15/partial_movie_files/CircleToSphereToSquare/624642324_458445313_728693765.mp4'
+file 'file:K:/SCALER HACK/gesture/media/videos/morph_shapes/480p15/partial_movie_files/CircleToSphereToSquare/624642324_4217992463_133085800.mp4'
+file 'file:K:/SCALER HACK/gesture/media/videos/morph_shapes/480p15/partial_movie_files/CircleToSphereToSquare/624642324_212882015_2993258910.mp4'
+file 'file:K:/SCALER HACK/gesture/media/videos/morph_shapes/480p15/partial_movie_files/CircleToSphereToSquare/624642324_2834709167_3968961708.mp4'
