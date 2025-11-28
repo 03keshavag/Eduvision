@@ -1,0 +1,47 @@
+{
+"H": { "name": "Hydrogen", "number": 1, "config": [1], "valence": 1, "shells": 1 },
+"He": { "name": "Helium", "number": 2, "config": [2], "valence": 2, "shells": 1 },
+"Li": { "name": "Lithium", "number": 3, "config": [2,1], "valence": 1, "shells": 2 },
+"Be": { "name": "Beryllium", "number": 4, "config": [2,2], "valence": 2, "shells": 2 },
+"B": { "name": "Boron", "number": 5, "config": [2,3], "valence": 3, "shells": 2 },
+"C": { "name": "Carbon", "number": 6, "config": [2,4], "valence": 4, "shells": 2 },
+"N": { "name": "Nitrogen", "number": 7, "config": [2,5], "valence": 5, "shells": 2 },
+"O": { "name": "Oxygen", "number": 8, "config": [2,6], "valence": 6, "shells": 2 },
+"F": { "name": "Fluorine", "number": 9, "config": [2,7], "valence": 7, "shells": 2 },
+"Ne": { "name": "Neon", "number": 10, "config": [2,8], "valence": 8, "shells": 2 },
+
+"Na": { "name": "Sodium", "number": 11, "config": [2,8,1], "valence": 1, "shells": 3 },
+"Mg": { "name": "Magnesium", "number": 12, "config": [2,8,2], "valence": 2, "shells": 3 },
+"Al": { "name": "Aluminium", "number": 13, "config": [2,8,3], "valence": 3, "shells": 3 },
+"Si": { "name": "Silicon", "number": 14, "config": [2,8,4], "valence": 4, "shells": 3 },
+"P": { "name": "Phosphorus", "number": 15, "config": [2,8,5], "valence": 5, "shells": 3 },
+"S": { "name": "Sulfur", "number": 16, "config": [2,8,6], "valence": 6, "shells": 3 },
+"Cl": { "name": "Chlorine", "number": 17, "config": [2,8,7], "valence": 7, "shells": 3 },
+"Ar": { "name": "Argon", "number": 18, "config": [2,8,8], "valence": 8, "shells": 3 },
+
+"K": { "name": "Potassium", "number": 19, "config": [2,8,8,1], "valence": 1, "shells": 4 },
+"Ca": { "name": "Calcium", "number": 20, "config": [2,8,8,2], "valence": 2, "shells": 4 },
+
+"Sc": { "name": "Scandium", "number": 21, "config": [2,8,9,2], "valence": 2, "shells": 4 },
+"Ti": { "name": "Titanium", "number": 22, "config": [2,8,10,2], "valence": 2, "shells": 4 },
+"V": { "name": "Vanadium", "number": 23, "config": [2,8,11,2], "valence": 2, "shells": 4 },
+"Cr": { "name": "Chromium", "number": 24, "config": [2,8,13,1], "valence": 1, "shells": 4 },
+"Mn": { "name": "Manganese", "number": 25, "config": [2,8,13,2], "valence": 2, "shells": 4 },
+"Fe": { "name": "Iron", "number": 26, "config": [2,8,14,2], "valence": 2, "shells": 4 },
+"Co": { "name": "Cobalt", "number": 27, "config": [2,8,15,2], "valence": 2, "shells": 4 },
+"Ni": { "name": "Nickel", "number": 28, "config": [2,8,16,2], "valence": 2, "shells": 4 },
+"Cu": { "name": "Copper", "number": 29, "config": [2,8,18,1], "valence": 1, "shells": 4 },
+"Zn": { "name": "Zinc", "number": 30, "config": [2,8,18,2], "valence": 2, "shells": 4 },
+
+"Ga": { "name": "Gallium", "number": 31, "config": [2,8,18,3], "valence": 3, "shells": 4 },
+"Ge": { "name": "Germanium", "number": 32, "config": [2,8,18,4], "valence": 4, "shells": 4 },
+"As": { "name": "Arsenic", "number": 33, "config": [2,8,18,5], "valence": 5, "shells": 4 },
+"Se": { "name": "Selenium", "number": 34, "config": [2,8,18,6], "valence": 6, "shells": 4 },
+"Br": { "name": "Bromine", "number": 35, "config": [2,8,18,7], "valence": 7, "shells": 4 },
+"Kr": { "name": "Krypton", "number": 36, "config": [2,8,18,8], "valence": 8, "shells": 4 },
+
+"Rb": { "name": "Rubidium", "number": 37, "config": [2,8,18,8,1], "valence": 1, "shells": 5 },
+"Sr": { "name": "Strontium", "number": 38, "config": [2,8,18,8,2], "valence": 2, "shells": 5 },
+"Y": { "name": "Yttrium", "number": 39, "config": [2,8,18,9,2], "valence": 2, "shells": 5 },
+"Zr": { "name": "Zirconium", "number": 40, "config": [2,8,18,10,2], "valence": 2, "shells": 5 }
+}

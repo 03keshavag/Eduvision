@@ -1,0 +1,6 @@
+{
+    "Na": { "name": "Sodium", "electrons": 6, "density": 1 },
+    "Fe": { "name": "Iron", "electrons": 12, "density": 2 },
+    "Cu": { "name": "Copper", "electrons": 10, "density": 2 },
+    "Al": { "name": "Aluminum", "electrons": 8, "density": 1 }
+}

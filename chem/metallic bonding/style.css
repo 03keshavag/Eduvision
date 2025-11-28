@@ -1,0 +1,61 @@
+body {
+    background: #0c0c0c;
+    margin: 0;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 { color: #00ffaa; margin-top: 15px; }
+
+.controls { margin-bottom: 15px; }
+
+button, select {
+    background: #1d1d1d;
+    border: 1px solid #00ffaa;
+    padding: 10px 14px;
+    color: white;
+    cursor: pointer;
+    margin: 5px;
+    border-radius: 6px;
+    transition: 0.2s;
+}
+
+button:hover, select:hover {
+    background: #00ffaa;
+    color: black;
+}
+
+#metalCanvas {
+    border: 2px solid #00ffaa;
+    border-radius: 10px;
+    background: #111;
+}
+
+/* Modal */
+.hidden { display: none; }
+
+.modal {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.65);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-box {
+    background: #111;
+    border: 2px solid #00ffaa;
+    padding: 20px;
+    border-radius: 10px;
+    width: 280px;
+    text-align: center;
+}
+
+#closeModal {
+    float: right;
+    color: #ff4444;
+    cursor: pointer;
+    font-size: 18px;
+}

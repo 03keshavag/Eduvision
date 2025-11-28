@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Metallic Bonding Simulation</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+<h1>Metallic Bonding Simulator</h1>
+
+<div class="controls">
+    <select id="metalSelect">
+        <option value="Na">Sodium (Na)</option>
+        <option value="Fe">Iron (Fe)</option>
+        <option value="Cu">Copper (Cu)</option>
+        <option value="Al">Aluminum (Al)</option>
+    </select>
+
+    <button id="heatBtn">🔥 Heat</button>
+    <button id="coolBtn">❄️ Cool</button>
+    <button id="flowBtn">⚡ Conduct Electricity</button>
+    <button id="quizBtn">🧠 Quiz Mode</button>
+</div>
+
+<canvas id="metalCanvas" width="650" height="450"></canvas>
+
+<div id="infoModal" class="modal hidden">
+    <div class="modal-box">
+        <span id="closeModal">✖</span>
+        <p id="modalContent"></p>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chemical Bonding Builder</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+    <h1>Chemical Bonding Interactive</h1>
+
+    <div class="controls">
+        <select id="elementA">
+            <option value="Na">Na (Sodium)</option>
+            <option value="Cl">Cl (Chlorine)</option>
+            <option value="H">H (Hydrogen)</option>
+            <option value="O">O (Oxygen)</option>
+            <option value="C">C (Carbon)</option>
+        </select>
+
+        <select id="elementB">
+            <option value="Cl">Cl (Chlorine)</option>
+            <option value="H">H (Hydrogen)</option>
+            <option value="O">O (Oxygen)</option>
+            <option value="Na">Na (Sodium)</option>
+            <option value="C">C (Carbon)</option>
+        </select>
+
+        <button id="autoBond">🤖 Auto-Bond</button>
+        <button id="reset">🔄 Reset</button>
+    </div>
+
+    <canvas id="bondCanvas" width="600" height="450"></canvas>
+
+    <script src="script.js"></script>
+</body>
+</html>

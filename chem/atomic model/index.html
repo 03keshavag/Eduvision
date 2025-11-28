@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Interactive Atom Model</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+    <h1>Interactive Atomic Model</h1>
+
+    <div class="controls">
+        <select id="elementSelect">
+            <option value="H">Hydrogen (H)</option>
+            <option value="He">Helium (He)</option>
+            <option value="Li">Lithium (Li)</option>
+            <option value="C">Carbon (C)</option>
+            <option value="O">Oxygen (O)</option>
+            <option value="Ne">Neon (Ne)</option>
+        </select>
+
+        <button id="exciteBtn">⚡ Excite Electron</button>
+        <button id="resetBtn">🔄 Reset</button>
+    </div>
+
+    <canvas id="atomCanvas" width="500" height="500"></canvas>
+
+    <script src="script.js"></script>
+</body>
+</html>

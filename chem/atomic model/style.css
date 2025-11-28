@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    background: #0d0d0d;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    margin-bottom: 12px;
+    color: #00ffbb;
+    font-size: 28px;
+}
+
+.controls {
+    margin-bottom: 20px;
+}
+
+select, button {
+    margin: 5px;
+    padding: 10px 15px;
+    background: #1c1c1c;
+    border: 1px solid #00ffaa;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+button:hover, select:hover {
+    background: #00ffaa;
+    color: black;
+}
+
+#atomCanvas {
+    background: #111;
+    border: 2px solid #00ffaa;
+    border-radius: 10px;
+    margin-top: 15px;
+}
